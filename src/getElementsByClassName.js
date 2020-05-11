@@ -9,4 +9,6 @@ var getElementsByClassName = function(className
   // your code here
 
   sdjkasjdkj
+  //comment test
+  jenny comment test
 };
